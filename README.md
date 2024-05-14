@@ -9,3 +9,4 @@ The project has effect when the user clicks on the cookie and when the user drop
 - CSS
 - JS
 
+Below is the deployment: [FortuneCookie](https://biscoito-da-sorte-three-iota.vercel.app/).
